@@ -38,10 +38,10 @@ Hi there! I'm **Harsh Agarwal**, a passionate web developer and problem solver. 
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=agrwalh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=agrwalh&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrwalh&theme=radical&hide_border=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=agrwalh&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=agrwalh&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrwalh&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔥 Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
